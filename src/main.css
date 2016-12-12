@@ -15,6 +15,6 @@ h2 {
   background-color: silver;
 }
 a {
-  display: none;
+  display: inline-flex;
   text-decoration: overline;
 }
