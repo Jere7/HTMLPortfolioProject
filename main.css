@@ -16,5 +16,5 @@ h2 {
 }
 a {
   display: inline-flex;
-  text-decoration: overline;
+  text-decoration: overline, underline;
 }
