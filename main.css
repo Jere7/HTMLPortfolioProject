@@ -8,3 +8,9 @@
 .skills {
   display: inline-block;
 }
+h1 {
+  background-color: black;
+}
+h2 {
+  background-color: silver;
+}
