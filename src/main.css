@@ -1,29 +1,32 @@
 .header {
   text-align: center;
-  border: 1px solid black;
+  border: 1px dashed black;
   outline-color: red;
 }
 .tagline {
   color: grey;
   text-align: center;
-  border: 1px solid black;
+  border: 1px dashed black;
   outline-color: red;
 }
 
 .skills {
   text-align: center;
   display: block;
-  
-}
-ul {
-  border: 1px solid black;
+  border: 1px dashed black;
   outline-color: red;
 }
+
+ul {
+
+}
+
 .contact {
   text-align: center;
 }
 a {
-  display: inline-block;;
+  display: inline-block;
+  text-decoration: none;
 }
 p {
   font-size: 15px;
