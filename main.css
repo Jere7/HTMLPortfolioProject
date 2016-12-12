@@ -14,3 +14,7 @@ h1 {
 h2 {
   background-color: silver;
 }
+a {
+  display: none;
+  text-decoration: overline;
+}
