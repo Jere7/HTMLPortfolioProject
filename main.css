@@ -5,3 +5,6 @@
 .tagline {
   color: red;
 }
+.skills {
+  display: inline-block;
+}
