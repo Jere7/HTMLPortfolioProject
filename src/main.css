@@ -1,28 +1,31 @@
 .header {
   text-align: center;
+  border: 1px solid black;
+  outline-color: red;
 }
 .tagline {
   color: grey;
+  text-align: center;
+  border: 1px solid black;
+  outline-color: red;
 }
+
 .skills {
   text-align: center;
-  display: inline-block;
+  display: block;
+  
 }
- .tagline {
-   text-align: center;
- }
+ul {
+  border: 1px solid black;
+  outline-color: red;
+}
+.contact {
+  text-align: center;
+}
 a {
-  display: inline-flex;
-
+  display: inline-block;;
 }
 p {
   font-size: 15px;
   text-align: center;
 }
-
-.contact {
-  text-align: center;
-}
-  .key {
-    text-align: center;
-  }
