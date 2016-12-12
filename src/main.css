@@ -6,6 +6,7 @@
   color: grey;
 }
 .skills {
+  text-align: center;
   display: inline-block;
 }
 h1 {
@@ -17,4 +18,8 @@ h2 {
 a {
   display: inline-flex;
   text-decoration:inherit;
+}
+p {
+  font-size: 15px;
+  text-decoration-color: green;
 }
