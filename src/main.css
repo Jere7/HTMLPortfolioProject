@@ -1,6 +1,5 @@
 .header {
-    display: inline-block;
-    color: grey;
+  text-align: center;
 }
 .tagline {
   color: grey;
@@ -9,17 +8,21 @@
   text-align: center;
   display: inline-block;
 }
-h1 {
-  background-color: black;
-}
-h2 {
-  background-color: silver;
-}
+ .tagline {
+   text-align: center;
+ }
 a {
   display: inline-flex;
-  text-decoration:inherit;
+
 }
 p {
   font-size: 15px;
-  text-decoration-color: green;
+  text-align: center;
 }
+
+.contact {
+  text-align: center;
+}
+  .key {
+    text-align: center;
+  }
